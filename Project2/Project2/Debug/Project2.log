@@ -1,0 +1,6 @@
+﻿  pro.c
+C:\Users\shalo\Desktop\‏‏תיקיה חדשה (2)\luzan and shalom\Project2\Project2\pro.c(43,22): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\shalo\Desktop\‏‏תיקיה חדשה (2)\luzan and shalom\Project2\Project2\pro.c(45,27): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(int)'
+C:\Users\shalo\Desktop\‏‏תיקיה חדשה (2)\luzan and shalom\Project2\Project2\pro.c(551,32): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(int)'
+C:\Users\shalo\Desktop\‏‏תיקיה חדשה (2)\luzan and shalom\Project2\Project2\pro.c(557,22): warning C4013: 'malloc' undefined; assuming extern returning int
+  Project2.vcxproj -> C:\Users\shalo\Desktop\‏‏תיקיה חדשה (2)\luzan and shalom\Project2\Debug\Project2.exe
